@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aliyuahmad100
+- 👋 Hi, I’m @Aliyuahmad
 - 👀 I’m interested in ... football 
 - 🌱 I’m currently learning ...code
 - 💞️ I’m looking to collaborate on ..coding.
